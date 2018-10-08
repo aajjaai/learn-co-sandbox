@@ -3,3 +3,10 @@ if (false) {
 } else {
    console.log("This will get printed!")
 }
+
+var x = 1;
+ 
+function myFunction(){
+  y = 2;
+  console.log(x);
+}
